@@ -1,5 +1,5 @@
 # my_printf
-Implementation of my_printf
+Implementation of the printf function
 
 The **my_printf()** function writes output to stdout, the standard output stream.
 
