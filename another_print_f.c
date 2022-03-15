@@ -161,13 +161,7 @@ int my_printf(char *format, ...)
 
 int main(void) 
 {
-char fav = 'c';
-char* m = "my dear father";
-int i = 45;
-unsigned int num = -54;
-unsigned int *pointer = &i;
-
-my_printf("%p!\n", fav);
+my_printf("space for testing");
 
 return 0;
 }
