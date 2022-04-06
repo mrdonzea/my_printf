@@ -15,4 +15,4 @@ s The char* argument is expected to be a pointer to an array of character type (
 
 p The void * pointer argument is printed in hexadecimal.
 
-Note: For the format specifier %p, I added an alternative implementation of MemCpy (my_MemCpy) to be able to copy the pointer's adress, as using any functions other than **write**, **malloc**, **free**, **va_start**, **va_arg**, **va_copy** or **va_end** was not allowed.
+Note: For the format specifier %p, I added an alternative implementation of MemCpy (my_MemCpy) to be able to copy the pointer's address, as using any functions other than **write**, **malloc**, **free**, **va_start**, **va_arg**, **va_copy** or **va_end** was not allowed.
